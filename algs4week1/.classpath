@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="percolation/" kind="src" path=""/>
+	<classpathentry kind="src" path="percolation"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/EricLiu/Documents/Brandeis/ALGS4/algs4.jar"/>
+	<classpathentry kind="lib" path="/Users/EricLiu/Documents/Brandeis/ALGS4/stdlib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
